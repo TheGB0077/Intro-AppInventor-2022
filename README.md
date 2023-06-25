@@ -5,15 +5,13 @@ Programação em blocos com AppInventor foi um curso de extensão oferecido no I
 
 ## APP INVENTOR: Lógica de Programação e Design
 <p align="center">
-  <a href="https://doi.org/10.5281/zenodo.8023421" target"_blank">
+  <a href="https://doi.org/10.5281/zenodo.8023421">
     <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8023421.svg"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://doi.org/10.5281/zenodo.8023421" target"_blank">
     <img src="https://github.com/TheGB0077/Intro-AppInventor-2022/assets/39922116/e940b99b-a8e8-405f-bd4d-12a5575c2f5e"/>
-  </a>
 </p>
 
 
